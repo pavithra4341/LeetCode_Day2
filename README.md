@@ -36,5 +36,4 @@ Same as manual addition with carry.
 **Space:** `O(max(m,n))`
 
 
-## ✅ Code
 
